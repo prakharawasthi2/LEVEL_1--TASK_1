@@ -1,7 +1,7 @@
 # LEVEL_1--TASK_1
 Landing page named as Discover India made on topic on tourism of India and specially shows temple. 
 # Temperature Converter Web Page
-</h1>#PRAKHAR AWASTHI</h1>
+#PRAKHAR AWASTHI
 ## Overview
 This is a simple and user-friendly web page that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It is built using **HTML**, **CSS**, and **JavaScript**.
 
